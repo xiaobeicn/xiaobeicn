@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=xiaobeicn&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" align="left" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=xiaobeicn&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" align="left" width="450px"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobeicn&layout=compact&text_color=718096&bg_color=ffffff&hide_title=true" align="right"  width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiaobeicn&layout=compact&text_color=718096&bg_color=ffffff&hide_title=true" align="right"  width="450px" />
 
 <!--
 **polaris1119/polaris1119** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
