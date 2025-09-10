@@ -6,5 +6,5 @@
 
 | <a href="https://github.com/xiaobeicn"><img align="center" src="https://github-readme-stats-omega-five-59.vercel.app/api?username=xiaobeicn&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" /></a> | <a href="https://github.com/xiaobeicn"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=xiaobeicn&hide_border=true" /></a> |
 | ------------- | ------------- |
-| ![Followers](https://github-profile-trophy.vercel.app/?username=xiaobeicn&row=1&column=3) | <a href="https://github.com/xiaobeicn"><img align="center" src="https://github-readme-stats-omega-five-59.vercel.app/api/top-langs/?username=xiaobeicn&layout=compact&hide_border=true&hide_title=true" /></a> |
+| <a href="https://github.com/xiaobeicn"><img align="center" src="https://github-readme-stats-omega-five-59.vercel.app/api/top-langs/?username=xiaobeicn&layout=compact&hide_border=true&hide_title=true" /></a> | ![Followers](https://github-profile-trophy.vercel.app/?username=xiaobeicn&row=1&column=3) |
 
