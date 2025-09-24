@@ -4,13 +4,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/xiaobeicn"><img src="https://github-readme-stats-omega-five-59.vercel.app/api?username=xiaobeicn&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=dark" /></a>
-</p>
+## 📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/xiaobeicn"><img src="https://github-readme-stats-omega-five-59.vercel.app/api/top-langs/?username=xiaobeicn&layout=compact&hide_border=true&hide_title=true&theme=dark" /></a>
-</p>
+| <a href="https://github.com/xiaobeicn"><img align="center" src="https://github-readme-stats-omega-five-59.vercel.app/api?username=xiaobeicn&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true&theme=dark" /></a> | <a href="https://github.com/xiaobeicn"><img align="center" src="https://github-readme-stats-omega-five-59.vercel.app/api/top-langs/?username=xiaobeicn&layout=compact&hide_border=true&hide_title=true&theme=dark" /></a> |
+| ------------- | ------------- |
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=xiaobeicn&theme=onedark&row=1&margin-w=5&margin-h=5" height="90" />
