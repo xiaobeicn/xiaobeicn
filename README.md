@@ -13,6 +13,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xiaobeicn&theme=onedark" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xiaobeicn&theme=onedark&row=1&margin-w=5&margin-h=5" height="90" />
 </p>
 
