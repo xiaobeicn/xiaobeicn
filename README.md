@@ -33,18 +33,18 @@ Evidence grades: `source` · `docs` · `experiment` · `conclusion` · `limitati
 
 ## // Curated signal
 
-2,456 starred repositories, sorted into 11 public lists. I read far more than I ship — the lists are the profile.
+2,333 starred repositories, sorted into 11 public lists. I read far more than I ship — the lists are the profile.
 
 <!-- lists:counts-as-of 2026-11-17 -->
 
 | List | Repos | List | Repos |
 |---|---|---|---|
-| [AI Agents, LLMs & GenAI](https://github.com/stars/xiaobeicn/lists/ai-agents-llms-genai) | 491 | [PHP & Laravel](https://github.com/stars/xiaobeicn/lists/php-laravel) | 318 |
-| [JS/TS Tooling & Node](https://github.com/stars/xiaobeicn/lists/js-ts-tooling-node) | 303 | [Go & Backend](https://github.com/stars/xiaobeicn/lists/go-backend) | 263 |
-| [Docs, Reading & Learning](https://github.com/stars/xiaobeicn/lists/docs-reading-learning) | 250 | [Frontend & UI](https://github.com/stars/xiaobeicn/lists/frontend-ui) | 208 |
-| [Data & Databases](https://github.com/stars/xiaobeicn/lists/data-databases) | 200 | [Dev Tools, CLI & Security](https://github.com/stars/xiaobeicn/lists/dev-tools-cli-security) | 149 |
-| [Infra, DevOps & Systems](https://github.com/stars/xiaobeicn/lists/infra-devops-systems) | 108 | [Python](https://github.com/stars/xiaobeicn/lists/python) | 101 |
-| [Desktop, Mobile & Media](https://github.com/stars/xiaobeicn/lists/desktop-mobile-media) | 65 | | |
+| [AI Agents, LLMs & GenAI](https://github.com/stars/xiaobeicn/lists/ai-agents-llms-genai) | 491 | [PHP & Laravel](https://github.com/stars/xiaobeicn/lists/php-laravel) | 303 |
+| [JS/TS Tooling & Node](https://github.com/stars/xiaobeicn/lists/js-ts-tooling-node) | 264 | [Go & Backend](https://github.com/stars/xiaobeicn/lists/go-backend) | 257 |
+| [Docs, Reading & Learning](https://github.com/stars/xiaobeicn/lists/docs-reading-learning) | 235 | [Frontend & UI](https://github.com/stars/xiaobeicn/lists/frontend-ui) | 189 |
+| [Data & Databases](https://github.com/stars/xiaobeicn/lists/data-databases) | 190 | [Dev Tools, CLI & Security](https://github.com/stars/xiaobeicn/lists/dev-tools-cli-security) | 144 |
+| [Infra, DevOps & Systems](https://github.com/stars/xiaobeicn/lists/infra-devops-systems) | 104 | [Python](https://github.com/stars/xiaobeicn/lists/python) | 96 |
+| [Desktop, Mobile & Media](https://github.com/stars/xiaobeicn/lists/desktop-mobile-media) | 60 | | |
 
 Counts as of 2026-11-17. Everything starred, unfiltered: [xiaobeicn?tab=stars](https://github.com/xiaobeicn?tab=stars).
 
