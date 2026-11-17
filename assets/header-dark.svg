@@ -25,7 +25,7 @@
   <line x1="720" y1="44" x2="720" y2="156" stroke="#30363D" stroke-width="1"/>
   <line x1="592" y1="100" x2="848" y2="100" stroke="#30363D" stroke-width="1"/>
   <text x="608" y="66" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="10" letter-spacing="1.5" fill="#8B949E">STARRED</text>
-  <text x="608" y="92" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="24" font-weight="700" fill="#FFB224">2,456</text>
+  <text x="608" y="92" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="24" font-weight="700" fill="#FFB224">2,333</text>
   <text x="736" y="66" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="10" letter-spacing="1.5" fill="#8B949E">LISTS</text>
   <text x="736" y="92" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="24" font-weight="700" fill="#E6EDF3">11</text>
   <text x="608" y="122" font-family="ui-monospace,'SF Mono','JetBrains Mono','Fira Code',Menlo,Consolas,monospace" font-size="10" letter-spacing="1.5" fill="#8B949E">SINCE</text>
